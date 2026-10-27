@@ -407,10 +407,9 @@ a full power cycle gives the machine and cartridge a fresh startup.
 
 ## Enclosure
 
-[`enclosure/`](enclosure/) contains ready-to-print `OmniSCC.3MF` (base board)
-and `OmniSCC+.3mf` (level-shifted board). `carts.3mf` is also
-included.
-Fill free to remove non required parts in the slicer.
+[`enclosure/`](enclosure/) contains ready-to-print `carts_v1.3mf` and `carts_v2.3mf`.
+Feel free to remove non required parts in the slicer.
+Use 2.5x15 screws for v1 and 2.9x6.5 for v2.
 
 ---
 
